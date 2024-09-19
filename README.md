@@ -10,7 +10,7 @@ This is a repository created by *Firstname*
 Run this command to execute the application:
 
 
-`pythona filename.py`
+`python filename.py`
 
  
 
